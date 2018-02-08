@@ -1,6 +1,6 @@
 # AdTrue Mobile Ads SDK for Android
 The AdTrue Mobile Ads SDK enables mobile app developers to maximize their monetization in native mobile apps.
-This repository contains open source examples and developer resources for both the Android SDK
+This repository contains open source examples for the Android SDK
 
 # Step 1: Add the Repo
 ![](http://cdn.adtrue.com//img/sdk/step1.png)
